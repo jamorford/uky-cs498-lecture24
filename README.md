@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jonathanamorford_cs498-lecture24&metric=alert_status)](https://sonarcloud.io/dashboard?id=jonathanamorford_cs498-lecture24)
