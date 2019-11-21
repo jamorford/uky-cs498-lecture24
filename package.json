@@ -5,7 +5,7 @@
   "main": "src/main/app.js",
   "scripts": {
     "start": "node ./src/main/app.js",
-    "test": "node ./node_modules/mocha/bin/mocha --exit \\\"src/test/cases/**/*.js\\\""
+    "test": "nyc node ./node_modules/mocha/bin/mocha --exit \\\"src/test/cases/**/*.js\\\""
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "mocha": "^6.2.2",
+    "nyc": "^14.1.1",
     "sinon": "^7.5.0",
     "supertest": "^4.0.2"
   }
