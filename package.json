@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jonathanamorford/cs498-lecture24#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
